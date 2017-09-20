@@ -7,14 +7,14 @@
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
-Term: Spring 2017
+Term: Fall 2017
 
-+ Projec title: Economic Conditions and the Inaugural Speeches
++ Projec title: How did economic developments influence inaugural speeches?
 + This project is conducted by [Yajie Guo]
 
-+ Project summary: This project tries to investigate the relationshiop between the economic conditions (indicated by GDP growth rate) and the topics of the inaugural speeches using topic modeling technique. 
++ Project summary: Economic conditions are vital for a country's development,that' why every president talks at length about them during their inaugural speeches.However,there may exist a couple of differences in aspects of their speeches between prosperous years and depression years.In this analysis,we'll see how economic development makes effects on presidents' inaugual speeches,and looked at the similarities and differences between Roosevelt and Obama,both of whom experienced depression,by text modeling,wordcloud and emotion analysis.
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+This folder is orgarnized as follows.
 
 ```
 proj/
