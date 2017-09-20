@@ -10,7 +10,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 Term: Spring 2017
 
 + Projec title: Economic Conditions and the Inaugural Speeches
-+ This project is conducted by [Yue Jin]
++ This project is conducted by [Yajie Guo]
 
 + Project summary: This project tries to investigate the relationshiop between the economic conditions (indicated by GDP growth rate) and the topics of the inaugural speeches using topic modeling technique. 
 
