@@ -1,7 +1,6 @@
-# Project: 
+# Project 1: How did economic developments influence inaugural speeches?
 ### Doc folder
 
-<<<<<<< HEAD
 ![image](figs/title.jpg)
 
 ### [Project Description](doc/)
@@ -26,6 +25,3 @@ proj/
 ```
 
 Please see each subfolder for a README file.
-=======
-The doc directory contains the report or presentation files. It can have subfolders.  
->>>>>>> origin/master
